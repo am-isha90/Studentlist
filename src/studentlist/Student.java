@@ -24,6 +24,9 @@ public class Student {
     public String getStudentName() {
         return studentName;
     }
+    public string getAddress(){
+        return address;
+    }
 
     /**
      * @param studentName the studentName to set
