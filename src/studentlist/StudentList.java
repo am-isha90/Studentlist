@@ -16,7 +16,7 @@ public class StudentList {
         Student s1=new Student();
         s1.setStudentName("Megha");
         
-        int[] li=new int[6];
+        int[] li=new int[3];
         //array of student objects
         Student[] studList=new Student[5];
         Scanner sc=new Scanner(System.in);
